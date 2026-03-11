@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KLRSJOXA
 
 [Document4]
-DocumentPath=..\TLV77133PDQNR\TLV77133PDQNR.PcbLib
+DocumentPath=Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OIRDRGOT
 
 [Document5]
-DocumentPath=..\TLV77133PDQNR\TLV77133PDQNR.SchLib
+DocumentPath=Sensores.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RIDFLWES
 
 [Configuration1]
 Name=Sources
