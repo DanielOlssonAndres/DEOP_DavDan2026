@@ -1,0 +1,4 @@
+Add Net: Net with name "NetD1_1" already exists
+Add Net: Net with name "NetD2_2" already exists
+Add Differential Pair: Number of nets in differential pair NetD1_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD1_3 is 1 instead of 2

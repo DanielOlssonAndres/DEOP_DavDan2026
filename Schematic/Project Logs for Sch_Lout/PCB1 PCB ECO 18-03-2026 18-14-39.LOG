@@ -1,0 +1,20 @@
+Added Component: Designator=J1(ConnectorMicroSD_msd4)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=+3.3V Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Pin To Net: NetName=GND Pin=J1-GND
+Add Net: Net with name "NetD1_1" already exists
+Add Net: Net with name "NetD2_2" already exists
+Add Differential Pair: Number of nets in differential pair NetD1_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD1_3 is 1 instead of 2
+Added Member To Class: ClassName=CONECTORES Member=Component J1 microSD_MSD4
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES
