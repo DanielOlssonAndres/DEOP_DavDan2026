@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Change Component Designator: OldDesignator= NewDesignator=U100
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Member To Class: ClassName=ALIMENTACION Member=Component R5 3.3k
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES
