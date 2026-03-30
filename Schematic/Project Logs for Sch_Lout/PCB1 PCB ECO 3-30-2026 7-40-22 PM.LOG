@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U1-17
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES

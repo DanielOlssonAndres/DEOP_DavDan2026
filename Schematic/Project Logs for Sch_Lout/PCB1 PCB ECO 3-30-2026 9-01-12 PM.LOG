@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetU3_10 Pin=U100-2
+Removed Pin From Net: NetName=NetU3_5 Pin=U100-3
+Removed Pin From Net: NetName=NetU5_1 Pin=U100-11
+Removed Pin From Net: NetName=NetU6_2 Pin=U100-14
+Removed Pin From Net: NetName=NetU6_1 Pin=U100-15
+Removed Pin From Net: NetName=NetU6_10 Pin=U100-16
+Removed Pin From Net: NetName=NetU5_4 Pin=U100-29
+Added Pin To Net: NetName=NetU3_10 Pin=U100-16
+Added Pin To Net: NetName=NetU3_5 Pin=U100-17
+Added Pin To Net: NetName=NetU5_4 Pin=U100-34
+Added Pin To Net: NetName=NetU5_1 Pin=U100-36
+Added Pin To Net: NetName=NetU6_10 Pin=U100-57
+Added Pin To Net: NetName=NetU6_2 Pin=U100-58
+Added Pin To Net: NetName=NetU6_1 Pin=U100-59
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VBUS Pin=D7-1
+Removed Pin From Net: NetName=+3.3V Pin=R16-1
+Removed Pin From Net: NetName=VCC Pin=R17-1
+Removed Pin From Net: NetName=VBUS Pin=R17-2
+Removed Member From Class: ClassName=CONECTORES Member=D7
+Change Component Footprint: Designator=R16 Old Footprint=FP-CRCW0603-HPe3-MFG New Footprint=FP-TFCR0603-IPC_A
+Change Component Footprint: Designator=R17 Old Footprint=FP-CRCW0603-HPe3-MFG New Footprint=FP-TFCR0603-IPC_A
+Change Component Comment : Designator=R16 Old Comment=10k New Comment=47k
+Change Component Comment : Designator=R17 Old Comment=10k New Comment=47k
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4AB5DEFC-3003-4799-A158-6E1C0973B834 New ItemGUID=EB606176-974E-4447-A3D0-5158613F75D0 Old RevisionGUID=A7882497-310D-46D4-91AE-35D4E9B4D7D2 New RevisionGUID=4ED608FD-6321-4B66-8870-525FE64A3FD2
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=4AB5DEFC-3003-4799-A158-6E1C0973B834 New ItemGUID=EB606176-974E-4447-A3D0-5158613F75D0 Old RevisionGUID=A7882497-310D-46D4-91AE-35D4E9B4D7D2 New RevisionGUID=4ED608FD-6321-4B66-8870-525FE64A3FD2
+Change component parameters: Designator = "R16" ("R16"); Footprint = "FP-CRCW0603-HPe3-MFG"; UniqueID = "\PWVVKJZT\IOSUSZNP" ("\PWVVKJZT\IOSUSZNP")
+Change component parameters: Designator = "R17" ("R17"); Footprint = "FP-CRCW0603-HPe3-MFG"; UniqueID = "\PWVVKJZT\APQOKAJS" ("\PWVVKJZT\APQOKAJS")
+Added Pin To Net: NetName=VBUS Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-1
+Added Pin To Net: NetName=NetR16_1 Pin=U100-42
+Added Net: Name=NetR16_1
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES

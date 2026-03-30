@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Change Component Footprint: Designator=U5 Old Footprint=IM66D130MV01 New Footprint=IFX-PG-TLGA-5-8
+Change Component Designator: OldDesignator= NewDesignator=U100
+Added Pin To Net: NetName=GND Pin=U5-3
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Member To Class: ClassName=CONTROL Member=Component U100 STM32L476RGT3
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES
