@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Removed Pin From Net: NetName=NetU3_10 Pin=U100-16
+Removed Pin From Net: NetName=NetU3_5 Pin=U100-17
+Added Pin To Net: NetName=NetU3_5 Pin=U100-16
+Added Pin To Net: NetName=NetU3_10 Pin=U100-17
+Add Differential Pair: Number of nets in differential pair NetD5_1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetD5_3 is 1 instead of 2
+Added Room: Name=CONTROL
+Added Room: Name=SENSORES
